@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class test {
 	public static void main(String[] args) 
 	{
-		
+		System.out.println("This program is to find out the day of week");
 		System.out.println("Enter a number from 1 to 7:");
 		Scanner kb=new Scanner(System.in);
 		int day=kb.nextInt();
