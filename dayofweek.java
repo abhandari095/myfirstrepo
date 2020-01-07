@@ -32,7 +32,7 @@ public class test {
 		case 7:
 			System.out.println("Finally it is Saturday");
 		default:
-			System.out.println("Enter a valid number");
+			System.out.println("Enter a valid number which is between 1 to 7");
 			break;
 		}
 		}
