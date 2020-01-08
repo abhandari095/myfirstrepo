@@ -35,7 +35,9 @@ public class test {
 			System.out.println("Enter a valid number which is between 1 to 7");
 			break;
 						
+
 						// this is the end of program
+
 		}
 		}
 				}
