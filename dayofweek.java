@@ -34,6 +34,8 @@ public class test {
 		default:
 			System.out.println("Enter a valid number");
 			break;
+						
+						// end of program
 		}
 		}
 				}
